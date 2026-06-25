@@ -7,7 +7,7 @@ import WelcomeMessage from './components/WelcomeMessage.vue'
 
 <template>
   <main>
-    <WelcomeMessage msg="Webエンジニアになろう講習会へようこそ" />
+    <WelcomeMessage msg="講習会の課題" />
     <ClickCounter />
     <ItemList />
   </main>

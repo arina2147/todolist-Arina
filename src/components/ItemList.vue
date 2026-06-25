@@ -30,7 +30,7 @@ interface Todo {
 }
 
 const todos = ref<Todo[]>([
-  { name: 'これを完成させる' },
+  { name: 'これを完成させる' },{ name: 'atcoderのレートを2年生までに1000以上にする' },
 ])
 const donetodos = ref<Todo[]>([])
 
